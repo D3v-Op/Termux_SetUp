@@ -50,6 +50,7 @@ apt-get -qqy install \
   --fix-missing \
   --fix-broken
 apt-get -qqy check
+
 pkg update
 pkg -y upgrade
 pkg install -y busybox
