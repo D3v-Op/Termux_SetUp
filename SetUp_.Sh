@@ -44,7 +44,7 @@ source $PREFIX/etc/profile.d/start-services.sh
 
 Executor() {
 
-
+Func_R
 
 }
 
