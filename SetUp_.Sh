@@ -12,10 +12,9 @@
 
 Func_R() {
 
-apt-get -qq update \
-&& \
-apt-get -qqy upgrade \
-&& \
+apt-get -qq update
+apt-get -qqy upgrade
+apt-get -qqy purge
 apt-get -qqy install \
   aria2 \
   curl \
