@@ -14,7 +14,10 @@ Func_R() {
 
 apt-get -qq update
 apt-get -qqy upgrade
-apt-get -qqy purge
+apt-get -qqy autoremove
+apt-get -qqy autoclean
+apt-get -qqy check
+apt-get -qqy clean
 apt-get -qqy install \
   aria2 \
   curl \
@@ -35,8 +38,15 @@ apt-get -qqy install \
   unzip \
   wget \
   yarn
-
-pkg install busybox
+apt-get -qq update
+apt-get -qqy upgrade
+apt-get -qqy install \
+  --fix-missing \
+  --fix-broken
+apt-get -qqy dist-upgrade
+pkg update
+pkg -y upgrade
+pkg install -y busybox
 source $PREFIX/etc/profile.d/start-services.sh
 
 }
