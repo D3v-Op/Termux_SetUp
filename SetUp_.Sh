@@ -44,7 +44,6 @@ apt-get -qqy install \
   yarn
 apt-get -qq update
 apt-get -qqy upgrade
-apt-get -qqy autoremove
 apt-get -qqy autoclean
 apt-get -qqy clean
 apt-get -qqy install \
@@ -53,8 +52,8 @@ apt-get -qqy install \
 apt-get -qqy check
 
 pkg update
-pkg -y upgrade
-pkg install -y busybox
+pkg upgrade
+pkg install busybox termux-services termux-tools
 source $PREFIX/etc/profile.d/start-services.sh
 
 }
