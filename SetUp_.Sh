@@ -26,6 +26,7 @@ apt-get -qqy install \
   curl \
   ffmpeg \
   git \
+  htop \
   jq \
   nano \
   neofetch \
