@@ -3,6 +3,7 @@
 
 [ ![ @D3v-Op ]( https://avatars.githubusercontent.com/u/77237764?s=200&v=4 ) ]( https://github.com/organizations/Dev_Op/ )
 
+
 <DIV style='text-align:center'>
 <ORG-LOGO>
 <A
@@ -11,10 +12,9 @@
   target='blank'
 >
 <IMG
-  align='center'
   alt='@D3v-Op'
   src='https://avatars.githubusercontent.com/u/77237764?s=200&v=4'
-  height='300em' width='300em'
+  height='70%' width='70%'
 />
 </A>
 </ORG-LOGO>
