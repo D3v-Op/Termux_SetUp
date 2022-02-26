@@ -72,13 +72,21 @@ ___
 <p align='center'>
 
 <a href='https://www.gnu.org/software/bash/' target='blank' >
-<img src='https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg' alt='Bash' width='70' height='70' />
+  <img
+    alt='Bash'
+    src='https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg'
+    width='90' height='90' 
+ />
 </a>
 
 
 
 <a href='https://www.docker.com/' target='blank' >
-<img src='https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg' alt='Bash' width='70' height='70' />
+  <img
+    alt='Bash'
+    src='https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg'
+    width='90' height='90'
+ />
 </a>
 
 </p>
