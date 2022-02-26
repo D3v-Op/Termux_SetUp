@@ -4,17 +4,9 @@
 [ ![ @D3v-Op ]( https://avatars.githubusercontent.com/u/77237764?s=200&v=4 ) ]( https://github.com/organizations/Dev_Op/ )
 
 <ORG-LOGO>
-  <A
-    align='center'
-    href='https://github.com/organizations/Dev_Op/'
-    target='blank'
-    width='70%'
-  >
-    <IMG
-      alt='@D3v-Op'
-      src='https://avatars.githubusercontent.com/u/77237764?s=200&v=4'
-    />
-  </A>
+<A align='center' href='https://github.com/organizations/Dev_Op/' target='blank' width='70%' >
+    <IMG alt='@D3v-Op' src='https://avatars.githubusercontent.com/u/77237764?s=200&v=4' />
+</A>
 </ORG-LOGO>
 
 <p align="center">
