@@ -13,7 +13,7 @@
   align='mid-center'
   alt='@D3v-Op'
   src='https://avatars.githubusercontent.com/u/77237764?s=200&v=4'
-  height='300' width='300'
+  height='300em' width='300em'
 />
 </A>
 </ORG-LOGO>
