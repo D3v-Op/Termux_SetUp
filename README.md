@@ -1,6 +1,3 @@
-
-
-
 <ORG-LOGO >
 <P align='center' >
  <A
@@ -16,19 +13,42 @@
 </ORG-LOGO>
 
 ___
+<P align='center' >
+<DISCORD>
+<A href='858650202219216926' >
+<img
+  src='https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg'
+  alt='KAKAROT379#9223'
+  height='50'
+  width='50'
+/>
+</A>
+</DISCORD>
 
-___
+<GITHUB>
+<A href='https://github.com/KAKAROT-D3v-Op' >
+<img
+  src='https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg'
+  alt='/KAKAROT-D3v-Op'
+  height='50'
+  width='50'
+/>
+</A>
+</GITHUB>
 
 <TELEGRAM>
 <A href='https://t.me/KAKAROT379' >
-<img align='center'
+<img
   src='https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg'
   alt='@KAKAROT379'
-  height='70'
-  width='70'
+  height='50'
+  width='50'
 />
-</A >
+</A>
 </TELEGRAM>
+</P>
+
+___
 
 <P align="left">
 <a href="https://codepen.io/tks-18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tks-18" height="30" width="40" /></a>
