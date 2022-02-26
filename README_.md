@@ -3,22 +3,24 @@
 
 [ ![ @D3v-Op ]( https://avatars.githubusercontent.com/u/77237764?s=200&v=4 ) ]( https://github.com/organizations/Dev_Op/ )
 
-
-<DIV style='text-align:center'>
 <ORG-LOGO>
-<A
-  align='center'
-  href='https://github.com/organizations/Dev_Op/'
-  target='blank'
->
-<IMG
-  alt='@D3v-Op'
-  src='https://avatars.githubusercontent.com/u/77237764?s=200&v=4'
-  height='70%' width='70%'
-/>
-</A>
+  <A
+    align='center'
+    href='https://github.com/organizations/Dev_Op/'
+    target='blank'
+    width='70%'
+  >
+    <IMG
+      alt='@D3v-Op'
+      src='https://avatars.githubusercontent.com/u/77237764?s=200&v=4'
+    />
+  </A>
 </ORG-LOGO>
-</DIV>
+
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
+
 
 ___
 
