@@ -24,20 +24,16 @@ ___
 ___
 
 > Project Name :
- - ```Personal Decentralized Seedbox```
+ - ```Termux Base SetUp Script```
 > Author / Owner :
  - ```KAKAROT```/```D3v-Op``` AKA ```KÀKÀR⌬T379_;-;_|_GO|⟨Û_ツ_```
 > Visibility :
- - Private & Authorised Share
+ - Public
 > IDE Host :
  - GitHub
 > Language :
-   - Docker & Shell( Bash )
+   - Shell( Bash )
 > Description :
- - Modular , Decentralised "Personal" Seedbox ,
- - Made For Non Comercial Use
- - Made In Hot Swapable Functionality
- - Connected Via Private Proxy , Including DHCP & DNS ( SOON )
  - 
 ___
 >***Advance ;***
