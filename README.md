@@ -70,25 +70,13 @@ ___
    -
 
 <p align='center'>
-
 <a href='https://www.gnu.org/software/bash/' target='blank' >
   <img
     alt='Bash'
     src='https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg'
-    width='90' height='90' 
+    width='100' height='100' 
  />
 </a>
-
-
-
-<a href='https://www.docker.com/' target='blank' >
-  <img
-    alt='Bash'
-    src='https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/docker.svg'
-    width='90' height='90'
- />
-</a>
-
 </p>
 
 > Description :
