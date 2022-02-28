@@ -5,15 +5,14 @@
 #
 
 
-# ***"
-#
-#   ### --- IK U F*KING MORON THAT U CAN READ THIS --- ###
+
+#   ### --- I K THAT U F*KING MORON CAN READ THIS --- ###
 #
 #     -) Now If u dk what it is go visit that link
 #     -) and if this is a private project file n ur not permitted person ,
-#        delete it R.N. .
-#
-# "***
+#        delete it R.N.
+
+
 
 # Link : https://github.com/D3v-Op/Termux_SetUp
 
@@ -73,81 +72,16 @@ pkg install busybox termux-services termux-tools
 source $PREFIX/etc/profile.d/start-services.sh
 
 }
-###########################################################################################################################################################################################################################################################################################################################################################################################
-
-#
-
-# Setting Up Path Variables
-
-PATH0='/data/data/com.termux/files'
-
-PATH1='/storage/emulated/0'
-
-#PATH2=''
-#PATH3=''
-
-
-
-# Setting Up SubPath Variables
-
-#SUBPATH0="$PATH0/home"
-
-SUBPATH1="$PATH1/Configs"
-SUBPATH2="$PATH1/Download"
-SUBPATH3="$PATH1/Termux"
-SUBPATH4="$SUBPATH3/CI"
-#SUBPATH5=""
-
-# *If Doesn't Exist , Creating Blank Config Files
-
-CREATE()
-{
-
-  DIR()
-  {
-  
-  mkdir -p \
-    $PATH1/{Configs/{Aria2C/Session,FileBrowser/DB,Nginx/{Site/{Apps,FrontEnd,BackEnd},SRC/{FrontEnd,BackEnd}},Rclone/DB},Download{1DM/Web_Page,Aria/On_Going,Shared},Termux}
-  
-  }
-
-touch 
-
-}
-
-
-
-
-
-_APT()
-{
-
-  _UP()
-  {
-    apt update
-    apt -y upgrade
-    apt full-upgrade
-    #apt -y automove
-  }
-
-#_UP
-
-}
 
 
 Executor()
 {
 
-#_APT
-#_PKG
-#_PIP
+Func_R
 
 }
 
-
-
 Executor
-
 
 #
 
