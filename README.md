@@ -18,7 +18,7 @@ ___
 <A href='https://discordapp.com/users/858650202219216926' >
 <img
   src='https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/discord.svg'
-  alt='KAKAROT379#9223'
+  alt='KAKAROT#9223'
   height='70'
   width='70'
 />
