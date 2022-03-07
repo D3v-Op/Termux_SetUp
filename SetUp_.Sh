@@ -103,15 +103,45 @@ CREATE()
   {
 
   mkdir -p \
-    $PATH1/{Configs/{Aria/{Aria2C,AriaNg},FileBrowser,Nginx/{Site/{Apps,FrontEnd,BackEnd},SRC/{FrontEnd,BackEnd}},Rclone/DB,Logs/{1DM,Aria2C,FileBrowser,Nginx,Rclone}},Download/{1DM/Web_Page,Aria/On_Going,Shared},Termux}
+    $PATH1/{Configs/{Aria/{Aria2C,AriaNg},FileBrowser,Nginx/{Site/{Apps,FrontEnd,BackEnd},SRC/{FrontEnd,BackEnd}},Rclone/DB,Logs/{1DM,Aria2C,FileBrowser,Nginx,Rclone}},Download/{1DM/Web_Page,Aria/On_Going,Shared},Termux/{CI,TEST}}
 
   }
 
-touch 
+  OBJECT()
+  {
+
+  touch
+
+  }
+
+DIR
+OBJECT
 
 }
 
+DELETE()
+{
 
+  DIR()
+  {
+
+  rm -rf \
+    ###
+
+  }
+
+  OBJECT()
+  {
+
+  rm -rf \
+    ###
+
+  }
+
+#DIR
+#OBJECT
+
+}
 
 
 
@@ -135,7 +165,6 @@ Executor() {
 Executor()
 {
 
-Func_R
 #_APT
 #_PKG
 #_PIP
@@ -143,14 +172,19 @@ Func_R
 }
 
 Executor
+
 #
+
 ###########################################################################################################################################################################################################################################################################################################################################################################################
+
 ###
 #
 # Dead Code Section
 #
 ###
+
 ###########################################################################################################################################################################################################################################################################################################################################################################################
+
 #
 ##
 ###
