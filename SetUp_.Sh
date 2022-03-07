@@ -4,15 +4,16 @@
 ##
 #
 
-#***"
+# ***"
 #
-#   ### --- IK U F*KING MORON CAN READ THIS --- ###
+#   ### --- I K U F*KING MORON CAN READ THIS --- ###
 #
 #     -) Now If u dk what it is go visit that link
 #     -) and if this is a private project file n ur not permitted person ,
 #        delete it R.N. .
 #
 # "***
+
 # Link : https://github.com/D3v-Op/Termux_SetUp
 # Location : $PROJECT_FOLDER_ROOT/SetUp_.Sh
 # Language : Shell( Bash )
@@ -22,6 +23,7 @@
 #
 
 Func_R() {
+
 apt-get -qq update
 apt-get -qqy upgrade
 apt-get -qqy autoremove
@@ -101,7 +103,7 @@ CREATE()
   {
 
   mkdir -p \
-    $PATH1/{Configs/{Aria2C/Session,FileBrowser/DB,Nginx/{Site/{Apps,FrontEnd,BackEnd},SRC/{FrontEnd,BackEnd}},Rclone/DB},Download{1DM/Web_Page,Aria/On_Going,Shared},Termux}
+    $PATH1/{Configs/{Aria/{Aria2C,AriaNg},FileBrowser,Nginx/{Site/{Apps,FrontEnd,BackEnd},SRC/{FrontEnd,BackEnd}},Rclone/DB,Logs/{1DM,Aria2C,FileBrowser,Nginx,Rclone}},Download/{1DM/Web_Page,Aria/On_Going,Shared},Termux}
 
   }
 
