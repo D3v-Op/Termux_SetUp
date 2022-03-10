@@ -13,7 +13,11 @@
 </ORG-LOGO>
 
 ___
+
+<ContactInfo>
+
 <P align='center' >
+
 <DISCORD>
 <A href='https://discordapp.com/users/858650202219216926' >
 <img
@@ -46,11 +50,15 @@ ___
 />
 </A>
 </TELEGRAM>
+
 </P>
+
+</ContactInfo>
 
 ___
 >>>>>>> ___
 ___
+
 
 ### ***INFO !***
 ___
