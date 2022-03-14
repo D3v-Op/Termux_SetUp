@@ -94,7 +94,9 @@ SUBPATH3="$PATH1/Termux"
 SUBPATH4="$SUBPATH3/CI"
 #SUBPATH5=""
 
-# *If Doesn't Exist , Creating Blank Config Files
+#ARCHITECTURE=$(uname -m)
+
+# *If Doesn't Exist , Creating Blank Config Files / Dir
 
 CREATE()
 {
