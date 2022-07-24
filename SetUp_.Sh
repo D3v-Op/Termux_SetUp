@@ -51,9 +51,7 @@ apt-get -qqy install \
   termux-services \
   termux-tools \
   unrar \
-  unzip \
-  wget \
-  yarn
+  unzip
 apt-get -qq update
 apt-get -qqy upgrade
 apt-get -qqy autoclean
